@@ -1,10 +1,42 @@
-# 💫 About Me:
-I'm a Computer Science student passionate about programming and problem solving. I build projects in C++ and web technologies, and I'm currently learning Python.
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zimal.siddiquii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zimal-yousuf-99287b386) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zimalyousuf0301@gmail.com) 
+# Hi there, I'm Zimal Yousuf 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+### 🎓 BSCS Student | C++ Developer | Web Enthusiast
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Passionate about programming, problem solving, and building cool things.*
+
+---
+
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zimal.siddiquii)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zimalyousuf0301@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zimal-yousuf-99287b386)
+
+---
+
+## 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Studying **Bachelor of Computer Science (BSCS)**
+- 💡 Passionate about **C++, OOP, and Web Development**
+- 🌱 Currently learning **Python & Java**
+- 🏆 Competed in a **National Pitching Competition** (Shield Force — Smart Industrial Safety System)
+- 📂 Check out my work on **[GitHub](https://github.com/ZimalYousuf3)**
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ZimalYousuf3&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
