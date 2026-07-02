@@ -1,7 +1,8 @@
 # Hi there, I'm Zimal Yousuf 👋
-
-### 🎓 BSCS Student | C++ Developer | Web Enthusiast
+### 🎓 BSCS Student | Software Developer | Web Enthusiast
 *Passionate about programming, problem solving, and building cool things.*
+
+💻 Skilled in **C++, Java, Python, HTML5, and CSS3**
 
 ---
 
