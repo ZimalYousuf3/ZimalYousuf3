@@ -5,6 +5,7 @@
 *Passionate about programming, data, and building intelligent, real world solutions.*
 
 💻 Skilled in **Python, C++, Java, HTML5, and CSS3**
+
 📊 Currently focused on **Machine Learning, Data Analysis, and AI Applications**
 
 ---
