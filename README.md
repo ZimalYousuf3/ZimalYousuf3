@@ -1,8 +1,11 @@
 # Hi there, I'm Zimal Yousuf 👋
-### 🎓 BSCS Student | Software Developer | Web Enthusiast
-*Passionate about programming, problem solving, and building cool things.*
 
-💻 Skilled in **C++, Java, Python, HTML5, and CSS3**
+### 🎓 BSCS Student | AI/ML Enthusiast | Software Developer
+
+*Passionate about programming, data, and building intelligent, real world solutions.*
+
+💻 Skilled in **Python, C++, Java, HTML5, and CSS3**
+📊 Currently focused on **Machine Learning, Data Analysis, and AI Applications**
 
 ---
 
@@ -16,20 +19,45 @@
 
 ## 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📊 AI/ML Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying **Bachelor of Computer Science (BSCS)**
-- 💡 Passionate about **C++, OOP, and Web Development**
-- 🌱 Currently learning **Python & Java**
-- 📂 Check out my work on **[GitHub](https://github.com/ZimalYousuf3)**
+- 🎓 Studying **Bachelor of Computer Science (BSCS)**, 2nd year
+- 📊 Learning **Machine Learning**: EDA, preprocessing, regression, classification, Decision Trees, Random Forest
+- 🤖 Built projects using **Hugging Face Transformers** for NLP tasks like sentiment analysis
+- 💡 Strong foundation in **C++, OOP, and Web Development**
+- 🌱 Actively expanding skills in **Python for AI/ML**
+- 📂 Explore my work below or on **[GitHub](https://github.com/ZimalYousuf3)**
+
+---
+
+## 📌 Featured Projects
+
+**[House-Price-India-Prediction](https://github.com/ZimalYousuf3/House-Price-India-Prediction)**
+Regression project predicting Indian house prices using Linear Regression and Random Forest, with full EDA and feature importance analysis.
+
+**[ML-Fundamentals-Practice](https://github.com/ZimalYousuf3/ML-Fundamentals-Practice)**
+Ongoing practice repository covering EDA, preprocessing, and supervised learning across multiple real world datasets.
+
+**[sentiment-analyzer](https://github.com/ZimalYousuf3/sentiment-analyzer)**
+AI-powered sentiment analyzer using Hugging Face Transformers, classifying customer reviews with a summary report.
+
+**[huggingface-nlp-basics](https://github.com/ZimalYousuf3/huggingface-nlp-basics)**
+Beginner-friendly practice with Hugging Face Transformers and Inference API for text generation and sentiment analysis.
 
 ---
 
